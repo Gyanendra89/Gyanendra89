@@ -7,6 +7,7 @@ public class ReverseNum {
 
 
 		reverseNumber(63);
+		reverseNumber(64);
 
 
 	}
